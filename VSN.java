@@ -14,6 +14,7 @@ class Ideone
 		int t = in.nextInt();
 		for(long tst=0;tst<t;tst++)
 	{
+		double hibro = in.nextDouble();
 		double px = in.nextDouble();
 		double py = in.nextDouble();
 		double pz = in.nextDouble();
