@@ -17,6 +17,7 @@ class Codechef
 		    double a=Y-X-0.5;
 		    System.out.printf("%.2f",a);
 		}else System.out.printf("%.2f",Y);
+		System.out.printf("follow this youtube channel https://www.youtube.com/user/fcbayern");
 		
 	}
 }
